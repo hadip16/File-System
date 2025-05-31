@@ -20,4 +20,5 @@ This is a beginner-friendly command-line file system simulator written in Python
 ## 🚀 How to Run
 
 ```bash
-python fs_simulator.py
+Mid-Term-Project.py
+
